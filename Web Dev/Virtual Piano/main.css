@@ -1,0 +1,102 @@
+.container {
+    width: max-content;
+    height: 150px;
+    margin: 450px auto;
+    max-width: 675px;
+}
+
+body {
+    background-color: #708090;
+}
+
+.white-keys kbd {
+    display: inline-block;
+    width: 75px;
+    height: 250px;
+    border: 6px solid grey;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    vertical-align: bottom;
+    line-height: 400px;
+}
+
+.w {
+    display: inline-block;
+    width: 65px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 200px;
+    z-index: 1;
+    top: -256px;
+    left: 57px;
+}
+
+.e {
+    display: inline-block;
+    width: 65px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 200px;
+    z-index: 1;
+    top: -256px;
+    left: 76px;
+}
+
+.t {
+    display: inline-block;
+    width: 65px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 200px;
+    z-index: 1;
+    top: -256px;
+    left: 193px;
+}
+
+.y {
+    display: inline-block;
+    width: 65px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 200px;
+    z-index: 1;
+    top: -256px;
+    left: 214px;
+}
+
+.u {
+    display: inline-block;
+    width: 65px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    vertical-align: bottom;
+    line-height: 200px;
+    z-index: 1;
+    top: -256px;
+    left: 235px;
+}
